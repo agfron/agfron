@@ -1,5 +1,27 @@
 ## Olá!! Sou o Natan Aguiar (AGFRON) 👋
 
 - 🔭 Trabalhando em projetos pessoais ⛏️
-- 🌱 Dev front buscando se aprefeiçoar em fullstak
+- 🌱 Dev Front-end buscando se aprefeiçoar em Full Stak; Criando minha própia sorte.
 - 😄 Pronouns: Ele/Dele
+# 👋 Olá! Eu sou o Agfron
+
+💻 Desenvolvedor apaixonado por tecnologia e soluções criativas.  
+🚀 Sempre aprendendo e explorando novas ferramentas.
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<div>
+  <a href="https://github.com/agfron">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agfron&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agfron&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+
+## 🔗 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-Seguir-red)](https://www.instagram.com/seu-usuario)
+
