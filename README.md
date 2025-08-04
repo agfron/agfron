@@ -3,12 +3,6 @@
 - 🔭 Trabalhando em projetos pessoais ⛏️
 - 🌱 Dev Front-end buscando se aprefeiçoar em Full Stak; Criando minha própia sorte.
 - 😄 Pronouns: Ele/Dele
-# 👋 Olá! Eu sou o Agfron
-
-💻 Desenvolvedor apaixonado por tecnologia e soluções criativas.  
-🚀 Sempre aprendendo e explorando novas ferramentas.
-
----
 
 ## 📊 Minhas Estatísticas no GitHub
 
