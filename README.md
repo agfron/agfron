@@ -16,6 +16,6 @@
 
 ## 🔗 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/natan-aguiar-9385b8298/
 [![Instagram](https://img.shields.io/badge/Instagram-Seguir-red)](https://www.instagram.com/seu-usuario)
 
