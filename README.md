@@ -12,9 +12,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agfron&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
-
-## 🔗 Onde me encontrar
-<button onclick="window.open('https://www.linkedin.com/in/natan-aguiar-9385b8298/', '_blank')">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue" alt="LinkedIn" />
-</button>
